@@ -1,6 +1,5 @@
 import Header from "./components/Header";
 import FeedbackStats from "./components/FeedbackStats";
-import FeedbackData from './data/FeedbackData'
 import FeedbackItems from "./components/FeebackItems";
 import FeedbackForm from "./components/FeedbackForm";
 import About from "./pages/About";
